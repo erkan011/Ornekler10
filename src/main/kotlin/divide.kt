@@ -7,3 +7,13 @@ fun main() {
     val result = divide1(10,5)
     println("Sonuç: $result")
 }
+
+//Double örneğide Aşağıdaki gibidir
+
+//fun divide1(a:Double, b:Double): Double {
+//    return a/b
+//}
+//fun main() {
+//    val result = divide1(10.5,5.5)
+//    println("Sonuç: $result")
+//}
