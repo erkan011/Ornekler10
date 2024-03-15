@@ -5,4 +5,5 @@ fun main() {
     map[1] = "Bir"
     map[2] = "İki"
     map[3] = "Üç"
+    println(map)
 }
